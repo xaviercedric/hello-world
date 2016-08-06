@@ -1,2 +1,2 @@
 # hello-world
-I'm Xavier, a product and type designer sometimes.
+I'm Xavier, a product and type designer sometimes!
